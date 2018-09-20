@@ -49,17 +49,13 @@ body {
   grid-template-rows: 20px 100px;
 }
 
-.mixes {
-  display: grid;
-  grid-template-rows: 20px 100px;
-}
-
 .title1 {
 }
 
 .videos1 {
   display: grid;
   grid-template-columns: auto auto auto auto auto auto;
+  grid-row-gap: 5px;
 }
 
 .video {
